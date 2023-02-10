@@ -34,6 +34,6 @@ def input_guest() -> tuple:
 
 
 if __name__ == "__main__":
-    guest = Guest("Juniven", "Surigao City", "09308220570", 2, 3)
+    guest = Guest("Juniven", "Surigao City", "234235234234", 2, 3)
     infos = guest.get_info
     print(infos)
